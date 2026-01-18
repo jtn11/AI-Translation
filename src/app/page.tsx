@@ -1,10 +1,9 @@
-import Image from "next/image";
-import HindiTranslator from "./translate";
+import Translator from "./dashboard/translate-language";
 
 export default function Home() {
   return (
     <div>
-      <HindiTranslator/>
+      <Translator/>
     </div>
   );
 }
