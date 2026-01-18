@@ -36,7 +36,7 @@ export default function Translator() {
       setIsRecording(true);
     } catch (err) {
       alert('Failed to access microphone. Please grant permission.');
-      
+      console.log(err)
     }
   };
 
