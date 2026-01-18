@@ -34,9 +34,8 @@ export default function Translator() {
 
       mediaRecorder.start();
       setIsRecording(true);
-    } catch (err) {
+    } catch {
       alert('Failed to access microphone. Please grant permission.');
-      console.error(err)
     }
   };
 
