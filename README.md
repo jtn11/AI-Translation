@@ -2,8 +2,6 @@
 
 A premium, high-performance speech-to-text translation application powered by **Groq Cloud** and **Llama 3**. Translate your voice from any supported language into professional-grade English text in real-time.
 
-![Universal Translator Banner](https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=2070)
-
 ## ✨ Features
 
 - **🎙️ Real-time Voice Recording**: Seamless audio capture directly from your browser.
@@ -60,11 +58,3 @@ A premium, high-performance speech-to-text translation application powered by **
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with ❤️ by [Antigravity](https://github.com/google-deepmind) and Phoenix.
